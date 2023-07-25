@@ -1,6 +1,6 @@
 # mirzakomic
 # 💫 About Me:
-🔭 I’m currently working on becoming a Full Stack Webdeveloper<br>🌱 I’m currently learning JS<br>💬 Ask me about HTML & CSS<br>⚡ Fun fact: I have way too many things I want to do (and I do most of them!) 
+🔭 I’m currently working on becoming a Full Stack Webdeveloper<br>🌱 I’m currently learning MongoDB<br>💬 Ask me about HTML & CSS<br>⚡ Fun fact: I have way too many things I want to do (and I do most of them!) 
 
 
 # 💻 Tech Stack:
