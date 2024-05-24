@@ -1,6 +1,6 @@
 # mirzakomic
 # 💫 About Me:
-🔭 I’m currently working on becoming a Full Stack Webdeveloper<br>🌱 I’m currently learning MongoDB<br>💬 Ask me about HTML & CSS<br>⚡ Fun fact: I have way too many things I want to do (and I do most of them!) 
+🔭 Full Stack Webdeveloper<br>⚡ Fun fact: I have way too many things I want to do (and I do most of them!) 
 
 
 # 💻 Tech Stack:
@@ -12,9 +12,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mirzakomic&icon=0&color=0)](https://visitcount.itsvg.in)
